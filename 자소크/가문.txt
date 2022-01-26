@@ -1,0 +1,34 @@
+	평민가문
+아익서드	Aixyd
+들빅		Dlvik
+티퀌저크	Tiqmjq
+펠스트		Felst
+
+	순수혈통
+브벅스프	Bvyxp
+어나브즈쿼	Ynabjq
+사이플라크	Xiplq
+
+	고위가문
+즈웰		Zwelh
+
+	신화가문
+퀘덴		Qden
+투타여르	Tutawyr
+울린		Ulyn
+즈치흐		Jchix
+에이코터	Eicoty
+마익시브	Myxiv
+도아시스	Doaxis
+
+	창조신
+퀘덴 브나	Qden Vna	문명의 신
+투타여르 루아티즌케	Tutawyr Ruatiznke	땅의 신
+울린 거흐루	Ulyn Gyhru	바다의 신
+즈치흐 르즈네	Jchix Rjn	불, 물의 신
+에이코터 튼쿼	Eicoty Tnq	대기의 신
+마익시브 이커브	Myxiv Ikyb	사교의 신
+도아시스 미닉	Doaxis Minic	통치의 신
+
+	유일신
+사테히녹스 크리우 스쿼치	Catehinox Kriu Squorch
