@@ -1,3 +1,4 @@
 ./sat-datetime
 sat-datetime/
 /.idea
+.DS_Store
