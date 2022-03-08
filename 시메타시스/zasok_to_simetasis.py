@@ -9,7 +9,7 @@ def convert(sentence: str) -> str:
     words = sentence.split(' ')
     for word in words:
         punctuation = ''
-        while word[-1] in '.,;:?!\"\'':
+        while word[-1] in '.,;:?!\"\']':
             punctuation = word[-1] + punctuation
             word = word[:-1]
 
