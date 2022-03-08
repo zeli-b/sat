@@ -51,5 +51,6 @@ if __name__ == '__main__':
     if len(argv) > 1:
         print(convert(' '.join(argv[1:])))
     else:
-        print(convert(input()))
+        while True:
+            print(convert(input()))
 
