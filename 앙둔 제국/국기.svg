@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" width="1920" height="1280" viewBox="0 0 1920 1280">
+  <rect width="1920" height="1280" fill="#14243f"/>
+  <polygon points="960 853.289 1155.066 515.425 764.934 515.425 960 853.289" fill="#f66"/>
+  <g>
+    <circle cx="1353.105" cy="640" r="43.08" fill="#f66"/>
+    <circle cx="566.895" cy="640" r="43.08" fill="#f66"/>
+  </g>
+  <g>
+    <circle cx="1278.029" cy="408.939" r="43.08" fill="#f66"/>
+    <circle cx="641.971" cy="871.061" r="43.08" fill="#f66"/>
+  </g>
+  <g>
+    <circle cx="1081.476" cy="266.135" r="43.08" fill="#f66"/>
+    <circle cx="838.524" cy="1013.865" r="43.08" fill="#f66"/>
+  </g>
+  <g>
+    <circle cx="838.524" cy="266.135" r="43.08" fill="#f66"/>
+    <circle cx="1081.476" cy="1013.865" r="43.08" fill="#f66"/>
+  </g>
+  <g>
+    <circle cx="641.971" cy="408.939" r="43.08" fill="#f66"/>
+    <circle cx="1278.029" cy="871.061" r="43.08" fill="#f66"/>
+  </g>
+</svg>
