@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="457.164" height="653.582" viewBox="0 0 457.164 653.582">
+  <g id="a" data-name="레이어 1"/>
+  <g id="b" data-name="레이어 2">
+    <g id="c" data-name="레이어 1">
+      <rect width="457.164" height="653.582" fill="#f2c300"/>
+      <g>
+        <g>
+          <rect x="85.457" y="155.776" width="286.251" height="90"/>
+          <rect x="281.708" y="85.457" width="90" height="230.64"/>
+        </g>
+        <polygon points="326.708 568.125 85.457 568.125 85.457 478.125 281.708 478.125 281.708 337.485 371.708 337.485 371.708 523.125 326.708 568.125"/>
+      </g>
+    </g>
+  </g>
+</svg>
