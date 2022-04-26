@@ -2,7 +2,7 @@
 
 ![Globe Animation](https://github.com/Zeli-B/sat/blob/master/globeGif.gif)
 
-![World Map](https://github.com/Zeli-B/sat/blob/master/%EC%84%B8%EA%B3%84%EC%A7%80%EB%8F%84/world.svg)
+![World Map](https://github.com/Zeli-B/sat/blob/master/%EC%84%B8%EA%B3%84%EC%A7%80%EB%8F%84/world.png)
 
 * 세계지도 나라 이름 표기 표준
 
