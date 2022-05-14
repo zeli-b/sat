@@ -53,6 +53,7 @@ PASSWORD = 'tp45tc8ti6qfl8m76jpvk5sul3kansqi'
 
 
 if __name__ == '__main__':
+    print(login(ID, PASSWORD))
     result = upload('Tasdia_de_sat.png', 'world.png')
     print(result['upload']['result'])
 
