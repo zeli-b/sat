@@ -8,19 +8,19 @@ from pytz import utc
 
 import xmltodict
 
-JWIKI_API = 'https://jwiki.kr/wiki/api.php'
+GWANGBU_API = 'http://wiki.shtelo.org/api.php'
 
 session = Session()
 
 
 def get_login_token():
-    r = session.get(f'{JWIKI_API}?action=query&meta=tokens&type=login&format=json')
+    r = session.get(f'{GWANGBU_API}?action=query&meta=tokens&type=login&format=json')
     j = r.json()
     return j['query']['tokens']['logintoken']
 
 
 def get_csrf_token():
-    r = session.get(f'{JWIKI_API}?action=query&meta=tokens&type=csrf&format=json')
+    r = session.get(f'{GWANGBU_API}?action=query&meta=tokens&type=csrf&format=json')
     j = r.json()
     return j['query']['tokens']['csrftoken']
 
@@ -30,7 +30,7 @@ def login(id_: str, password: str, login_token: Optional[str] = None):
         login_token = get_login_token()
 
     data = {'lgname': id_, 'lgpassword': password, 'lgtoken': login_token}
-    r = session.post(f'{JWIKI_API}?action=login&format=json', data=data)
+    r = session.post(f'{GWANGBU_API}?action=login&format=json', data=data)
     return r.json()
 
 
@@ -44,12 +44,12 @@ def upload(filename: str, file_path: str, csrf_token: Optional[str] = None):
         'ignorewarnings': True
     }
     file = {'file': (filename, open(file_path, 'rb'), 'multipart/form-data')}
-    r = session.post(f'{JWIKI_API}?action=upload&format=json', data, files=file)
+    r = session.post(f'{GWANGBU_API}?action=upload&format=json', data, files=file)
     return r.json()
 
 
 ID = 'Junhg0211@Zastravapera'
-PASSWORD = 'tp45tc8ti6qfl8m76jpvk5sul3kansqi'
+PASSWORD = 'r94glct0gvs69cafgngesnpjr4f50cqm'
 
 
 if __name__ == '__main__':
