@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2022.2.25)  26 JUL 2022 16:56
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2022.2.25)  27 JUL 2022 14:01
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -544,34 +544,37 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}</tmp/lua_
-GPwgyK></tmp/lua_VO25RM></tmp/lua_VyTfrx></tmp/lua_IkgTx2></tmp/lua_6QG2xj>] [2
-] [3] [4] (./main.aux)
+2ynyk3></tmp/lua_HAWR4F></tmp/lua_VfQgpU></tmp/lua_1kwNFy></tmp/lua_JiPiKK>] [2
+] [3] [4] [5] [6] [7] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 )
 
 Here is how much of LuaTeX's memory you used:
- 9685 strings out of 478531
+ 9688 strings out of 478531
  100000,552014 words of node,token memory allocated
- 626 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 7 attribute, 88 glue_spec,
- 5 attribute_list, 1 write, 3 user_defined nodes
-   avail lists: 1:2,2:889,3:300,4:172,5:65,6:54,7:2226,8:2,9:444,10:12,11:64
- 29380 multiletter control sequences out of 65536+600000
- 75 fonts using 70683223 bytes
+ 639 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 3 glue, 3 kern, 1 glyph, 9 attribute, 88 glue_spec,
+ 6 attribute_list, 1 write, 3 user_defined nodes
+   avail lists: 1:2,2:886,3:300,4:172,5:71,6:54,7:2509,8:2,9:444,10:12,11:90
+ 29383 multiletter control sequences out of 65536+600000
+ 78 fonts using 80902447 bytes
  110i,10n,111p,463b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
-</System/Library/Fonts/Apple Color Emoji.ttc></usr/local/texlive/2021/texmf-dist
-/fonts/opentype/public/lm/lmroman10-regular.otf></usr/local/texlive/2021/texmf-d
-ist/fonts/truetype/public/unfonts-core/UnBatangBold.ttf></usr/local/texlive/2021
-/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></usr/local/texlive/2021
-/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></usr/local/texlive/2
-021/texmf-dist/fonts/truetype/public/unfonts-core/UnBatang.ttf></usr/local/texli
-ve/2021/texmf-dist/fonts/opentype/public/lm/lmromancaps10-regular.otf>
-Output written on main.pdf (4 pages, 278293 bytes).
+</usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.ot
+f></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.
+otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmroman7-regula
+r.otf></System/Library/Fonts/Apple Color Emoji.ttc></usr/local/texlive/2021/texm
+f-dist/fonts/opentype/public/lm/lmroman10-regular.otf></usr/local/texlive/2021/t
+exmf-dist/fonts/truetype/public/unfonts-core/UnBatangBold.ttf></usr/local/texliv
+e/2021/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf></usr/local/texliv
+e/2021/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></usr/local/tex
+live/2021/texmf-dist/fonts/truetype/public/unfonts-core/UnBatang.ttf></usr/local
+/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmromancaps10-regular.otf>
+Output written on main.pdf (7 pages, 292625 bytes).
 
-PDF statistics: 76 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+PDF statistics: 106 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
