@@ -1,67 +1,32 @@
->>> random.choice(c)
 'geshtaluatin'		전화기
->>> random.choice(c)
 'or'			나오다
->>> random.choice(c)
 'nanig'			잊다, 망각하다, 까먹다
->>> random.choice(c)
 'aikipúr'			가지
->>> random.choice(c)
 'sazigau'			되돌리다
->>> random.choice(c)
 'mat'			다시
->>> random.choice(c)
 'ysonam'			일씨, 부모님 가족의 이름
->>> random.choice(c)
 'sivú'			은
-
->>> random.choice(c)
 'narisanroid'		믿음
->>> random.choice(c)
 'az'			~로써
->>> random.choice(c)
 'zigänìe'			상대성
->>> random.choice(c)
 'potúsàsin'		마법 지팡이
->>> random.choice(c)
 'soris'			이전
->>> random.choice(c)
 'ikaluo'			학문
->>> random.choice(c)
 'narisàsuque'		알려지다
->>> random.choice(c)
 'osha'			원
-
->>> random.choice(c)
 'äliquilas'			여권
->>> random.choice(c)
 'golis'			누나
->>> random.choice(c)
 'kriprepos'			만들어 두다
->>> random.choice(c)
 'paradic'			행진
->>> random.choice(c)
 'rutan'			승차(타다)
->>> random.choice(c)
 'kav'			관련하다
->>> random.choice(c)
 'sôsha'			구
->>> random.choice(c)
 'mitoda'			방법
->>> random.choice(c)
-
 'shocenin'			강자, 다수자
->>> random.choice(c)
 'zap'			잡다
->>> random.choice(c)
 'úrima'			과도한 진행, 뇌절
->>> random.choice(c)
 'mine'			옹호; 핥다
->>> random.choice(c)
 'eledraviàs'		꺾쇠 <, >
->>> random.choice(c)
 'hashalin'			자동차
->>> random.choice(c)
 'liviaciatashaque'		추운
->>> random.choice(c)
 'itar'			보정, 맞추다
