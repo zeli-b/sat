@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" width="1440" height="1440" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1440 1440">
+  <defs>
+    <filter id="b" data-name="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="c" stdDeviation="15"/>
+      <feFlood flood-color="#000" flood-opacity=".5"/>
+      <feComposite in2="c" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect x="0" width="1440" height="1440" fill="#5e95b4"/>
+  <g filter="url(#b)">
+    <rect x="119.1" y="574.96" width="1201.799" height="290.079" fill="#5e95b4"/>
+    <g>
+      <rect x="471.344" y="637.105" width="82.885" height="82.885" fill="#fff"/>
+      <polygon points="844.328 637.105 844.328 678.547 802.885 678.547 802.885 802.875 761.443 802.875 761.443 678.547 678.557 678.547 678.557 637.105 844.328 637.105" fill="#fff"/>
+      <polygon points="1051.522 761.433 1051.522 802.875 885.771 802.875 885.771 637.105 927.214 637.105 927.214 761.433 1051.522 761.433" fill="#fff"/>
+      <rect x="968.637" y="637.105" width="82.885" height="82.885" fill="#fff"/>
+      <polygon points="429.901 637.105 429.901 802.875 388.478 802.875 388.478 761.433 264.15 761.433 264.15 719.99 388.478 719.99 388.478 637.105 429.901 637.105" fill="#fff"/>
+      <polygon points="595.672 637.105 637.114 637.105 637.114 802.876 471.344 802.876 471.344 761.433 595.672 761.433 595.672 637.105" fill="#fff"/>
+      <path d="M98.379,554.239v331.522H1341.621v-331.522H98.379Zm1201.799,290.079H139.822v-248.636H1300.178v248.636Z" fill="#fff"/>
+      <polygon points="1258.736 637.105 1258.736 802.875 1217.293 802.875 1217.293 761.433 1092.965 761.433 1092.965 719.99 1217.293 719.99 1217.293 637.105 1258.736 637.105" fill="#fff"/>
+      <polygon points="347.035 637.105 347.035 678.547 222.707 678.547 222.707 802.875 181.264 802.875 181.264 637.105 347.035 637.105" fill="#fff"/>
+    </g>
+  </g>
+</svg>
