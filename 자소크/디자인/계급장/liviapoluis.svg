@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="b" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" width="40.406" height="23.738" viewBox="0 0 40.406 23.738">
+<svg id="b" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" width="40.406" height="23.738" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40.406 23.738">
+  <defs>
+    <linearGradient id="d" data-name="무제 그라디언트 105" x1="28.537" y1=".561" x2="28.537" y2="21.808" gradientTransform="translate(16.751 -16.702) rotate(44.999)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2c2c2c"/>
+      <stop offset=".496" stop-color="#aaa"/>
+      <stop offset=".503" stop-color="#222"/>
+      <stop offset="1" stop-color="#444"/>
+    </linearGradient>
+    <linearGradient id="e" data-name="무제 그라디언트 105" x1="20.203" y1=".561" x2="20.203" y2="21.808" gradientTransform="translate(14.31 -10.809) rotate(44.999)" xlink:href="#d"/>
+    <linearGradient id="f" data-name="무제 그라디언트 105" x1="11.869" y1=".561" x2="11.869" y2="21.808" gradientTransform="translate(11.869 -4.916) rotate(44.999)" xlink:href="#d"/>
+  </defs>
   <g id="c" data-name="레이어 1">
     <g>
       <g>
-        <rect x="-1.917" y="9.869" width="27.572" height="4" transform="translate(-4.916 11.869) rotate(-45)" fill="#f7f7f9" stroke-width="0"/>
-        <path d="M20.203,1.414l2.121,2.121L3.535,22.324l-2.121-2.121L20.203,1.414M20.203,0l-.707.707L.707,19.496l-.707.707.707.707,2.121,2.121.707.707.707-.707L23.031,4.242l.707-.707-.707-.707-2.121-2.121L20.203,0h0Z" stroke-width="0"/>
+        <rect x="14.751" y="9.87" width="27.571" height="4" transform="translate(-.035 23.655) rotate(-44.999)" fill="url(#d)" stroke-width="0"/>
+        <path d="M36.871,1.414l2.121,2.121-18.789,18.789-2.121-2.121L36.871,1.414M36.871,0l-.707.707-18.789,18.789-.707.707.707.707,2.121,2.121.707.707.707-.707L39.699,4.242l.707-.707-.707-.707-2.121-2.121L36.871,0h0Z" stroke-width="0"/>
       </g>
       <g>
-        <rect x="6.417" y="9.869" width="27.572" height="4" transform="translate(-2.475 17.762) rotate(-45)" fill="#f7f7f9" stroke-width="0"/>
-        <path d="M28.537,1.414l2.121,2.121L11.869,22.324l-2.121-2.121L28.537,1.414M28.537,0l-.707.707L9.041,19.496l-.707.707.707.707,2.121,2.121.707.707.707-.707L31.365,4.242l.707-.707-.707-.707-2.121-2.121-.707-.707h0Z" stroke-width="0"/>
+        <rect x="6.417" y="9.87" width="27.571" height="4" transform="translate(-2.476 17.762) rotate(-44.999)" fill="url(#e)" stroke-width="0"/>
+        <path d="M28.537,1.414l2.121,2.121L11.869,22.324l-2.121-2.121L28.537,1.414M28.537,0l-.707.707L9.041,19.496l-.707.707.707.707,2.121,2.121.707.707.707-.707L31.365,4.242l.707-.707-.707-.707-2.121-2.121L28.537,0h0Z" stroke-width="0"/>
       </g>
       <g>
-        <rect x="14.751" y="9.869" width="27.572" height="4" transform="translate(-.034 23.655) rotate(-45)" fill="#f7f7f9" stroke-width="0"/>
-        <path d="M36.871,1.414l2.121,2.121-18.789,18.789-2.121-2.121L36.871,1.414M36.871,0l-.707.707-18.789,18.789-.707.707.707.707,2.121,2.121.707.707.707-.707L39.699,4.242l.707-.707-.707-.707-2.121-2.121-.707-.707h0Z" stroke-width="0"/>
+        <rect x="-1.917" y="9.87" width="27.571" height="4" transform="translate(-4.917 11.869) rotate(-44.999)" fill="url(#f)" stroke-width="0"/>
+        <path d="M20.203,1.414l2.121,2.121L3.535,22.324l-2.121-2.121L20.203,1.414M20.203,0l-.707.707L.707,19.496l-.707.707.707.707,2.121,2.121.707.707.707-.707L23.031,4.242l.707-.707-.707-.707-2.121-2.121-.707-.707h0Z" stroke-width="0"/>
       </g>
     </g>
   </g>
