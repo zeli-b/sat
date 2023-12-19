@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" width="30.644" height="26.537" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30.644 26.537">
+  <defs>
+    <linearGradient id="d" data-name="무제 그라디언트 472" x1="15.322" y1="3.198" x2="15.322" y2="29.864" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1bc42a"/>
+      <stop offset=".496" stop-color="#bcf7c5"/>
+      <stop offset=".5" stop-color="#009122"/>
+      <stop offset="1" stop-color="#93db91"/>
+    </linearGradient>
+  </defs>
+  <g id="c" data-name="레이어 1">
+    <g>
+      <path d="M.866,26.037L15.323,1l14.455,25.037H.866ZM22.85,22.037l-7.527-13.037-7.527,13.037h15.055Z" fill="url(#d)" stroke-width="0"/>
+      <path d="M15.323,2l13.589,23.537H1.732L15.323,2M6.929,22.537h16.787L15.323,8l-8.394,14.537M15.323,0l-.866,1.5L.866,25.037l-.866,1.5h30.644l-.866-1.5L16.189,1.5l-.866-1.5h0ZM8.661,21.537l6.661-11.537,6.661,11.537h-13.323Z" stroke-width="0"/>
+    </g>
+  </g>
+</svg>
