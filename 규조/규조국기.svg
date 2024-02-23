@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="a" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
   <rect width="600" height="400" stroke-width="0"/>
-  <polygon points="300 200 184.53 400 415.47 400 300 200" fill="#fff" stroke-width="0"/>
-  <polygon points="300 200 415.47 0 184.53 0 300 200" fill="#fff" stroke-width="0"/>
+  <rect x="200" y="100" width="200" height="200" fill="#fff" stroke-width="0"/>
 </svg>
