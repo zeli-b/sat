@@ -276,6 +276,8 @@ def main():
     # hangul-jamo
     for i in range(0x1100, 0x11ff + 1):
         create_glyph(chr(i), font)
+    for i in range(0x3130, 0x318f + 1):
+        create_glyph(chr(i), font)
 
     # hangul
     for i in range(ord('가'), ord('힣') + 1):
