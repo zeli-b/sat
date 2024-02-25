@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" width="14.583" height="19.077" viewBox="0 0 14.583 19.077">
+  <rect x="7.485" y="6.553" width=".96" height="8.509" transform="translate(18.772 2.843) rotate(90)" stroke-width="0"/>
+  <rect x="7.485" y="11.648" width=".96" height="8.509" transform="translate(23.867 7.938) rotate(90)" stroke-width="0"/>
+  <rect x="7.485" y="5.953" width=".96" height="9.871" transform="translate(15.929 21.777) rotate(180)" stroke-width="0"/>
+  <rect x="3.71" y="10.807" width=".96" height="5.095" transform="translate(8.38 26.709) rotate(180)" stroke-width="0"/>
+  <rect x="11.259" y="10.807" width=".96" height="5.095" transform="translate(23.478 26.709) rotate(180)" stroke-width="0"/>
+  <polygon points="12.854 9.528 11.673 9.528 9.664 5.953 10.845 5.953 12.854 9.528" stroke-width="0"/>
+  <polygon points="3.075 9.528 4.256 9.528 6.265 5.954 5.084 5.954 3.075 9.528" stroke-width="0"/>
+</svg>

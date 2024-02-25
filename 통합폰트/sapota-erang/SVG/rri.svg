@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" width="14.583" height="19.077" viewBox="0 0 14.583 19.077">
+  <rect x="3.501" y="5.953" width=".96" height="7.865" stroke-width="0"/>
+  <polygon points="9.555 14.012 9.555 14.882 4.1 16.382 4.1 15.512 9.555 14.012" stroke-width="0"/>
+  <path d="M4.1,14.012h-.96s.36.606.36,1.185-.36,1.185-.36,1.185h.96s.36-.642.36-1.185-.36-1.185-.36-1.185Z" stroke-width="0"/>
+  <path d="M10.281,9.406h.96s-.36-.883-.36-1.726.36-1.726.36-1.726h-.96s-.36.936-.36,1.726.36,1.726.36,1.726Z" stroke-width="0"/>
+  <path d="M10.281,16.382h.96s-.36-1.784-.36-3.488.36-3.488.36-3.488h-.96s-.36,1.891-.36,3.488.36,3.488.36,3.488Z" stroke-width="0"/>
+  <rect x="8.596" y="5.953" width=".96" height="7.865" stroke-width="0"/>
+  <rect x="6.048" y="7.339" width=".96" height="5.095" transform="translate(16.414 3.358) rotate(90)" stroke-width="0"/>
+  <rect x="6.048" y="10.791" width=".96" height="5.095" transform="translate(19.867 6.811) rotate(90)" stroke-width="0"/>
+  <rect x="6.048" y="3.886" width=".96" height="5.095" transform="translate(12.961 -.095) rotate(90)" stroke-width="0"/>
+</svg>
