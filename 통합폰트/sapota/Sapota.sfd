@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1673398754
-ModificationTime: 1708933201
+ModificationTime: 1709385587
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -45,10 +45,10 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 150
-WinInfo: 609 21 10
+WinInfo: 714 21 10
 BeginPrivate: 0
 EndPrivate
-BeginChars: 912 642
+BeginChars: 912 644
 
 StartChar: unie000
 Encoding: 257 57344 0
@@ -25997,6 +25997,35 @@ SplineSet
  73 142.857421875 l 1
  73 64 137 0 215.857421875 0 c 2xac
 EndSplineSet
+EndChar
+
+StartChar: glyph642
+Encoding: 899 57535 642
+Width: 1050
+VWidth: 0
+Flags: W
+HStem: 0 21G<75 975> 579.9 20.0996<95.0996 954.9>
+VStem: 954.9 20.0996<20.0996 579.9>
+LayerCount: 2
+Fore
+SplineSet
+75 600 m 1
+ 975 600 l 1
+ 975 0 l 1
+ 75 0 l 1
+ 75 600 l 1
+954.900390625 20.099609375 m 2
+ 954.900390625 579.900390625 l 1
+ 95.099609375 579.900390625 l 1
+ 954.900390625 20.099609375 l 2
+EndSplineSet
+EndChar
+
+StartChar: space
+Encoding: 32 32 643
+Width: 250
+Flags: W
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
