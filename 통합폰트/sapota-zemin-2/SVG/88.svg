@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <g>
+    <line x1="6.823" y1="6" x2="6.823" y2="11.489" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10"/>
+    <line x1="8.177" y1="6" x2="8.177" y2="11.489" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10"/>
+  </g>
+  <line x1="6.823" y1="8.745" x2="8.177" y2="8.745" fill="none" stroke="#000" stroke-linecap="square" stroke-miterlimit="10"/>
+</svg>
